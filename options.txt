@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Admin\Desktop\WebTour_Task3_17.04_(Kovalenko V)
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\desktop\webtour_task3_17.04_(kovalenko v)\\logfile.log
+c:\users\admin\desktop\webtour_task3_17.04_(kovalenko v)\\combined_WebTour_Task3_17.04_(Kovalenko V).c
+c:\users\admin\desktop\webtour_task3_17.04_(kovalenko v)\\pre_cci.c

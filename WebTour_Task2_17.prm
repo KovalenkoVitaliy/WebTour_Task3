@@ -1,0 +1,16 @@
+[parameter:Password]
+CurrentValue="bean"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue=""
+ParamName="Password"
+Prompt=""
+Type="Custom"
+[parameter:UserName]
+CurrentValue="jojo"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue=""
+ParamName="UserName"
+Prompt=""
+Type="Custom"

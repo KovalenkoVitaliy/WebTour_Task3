@@ -1,0 +1,11 @@
+Action.c(34): Number of Tickets on Page in GetAnswer: 3
+Action.c(35): 
+Action.c(98): Ticket with return, you need see only the first DEPARURE CYTI
+Action.c(154): Number of flightID1: 5567-116203-JB
+Action.c(155): Leaves city-¹1 is: Frankfurt
+Action.c(156): Number of flightID2: 7533-155605-JB
+Action.c(157): Leaves city-¹2 is: London
+Action.c(158): Number of flightID3: 85226-2554018-JB
+Action.c(159): Leaves city-¹3 is: London
+Action.c(160): 
+Action.c(162): Number of city DELETE: 1
